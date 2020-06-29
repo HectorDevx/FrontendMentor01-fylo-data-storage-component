@@ -25,3 +25,12 @@
   letter-spacing: 2;
   margin: 8px;
 }
+
+@media (max-width: 800px) {
+  .dialog {
+    margin-top: 0px;
+    margin-bottom: -80px;
+    justify-self: center;
+    align-self: center;
+  }
+}

@@ -35,3 +35,30 @@
   width: 24px;
   height: auto;
 }
+
+@media (max-width: 800px) {
+  .logo-container {
+    width: 80%;
+    margin: 5%;
+    padding: 24px;
+    padding-right: 40px;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 8px 80px 8px 8px;
+  }
+
+  .icons {
+    justify-content: flex-start;
+  }
+
+  .icon-container {
+    margin: 4px;
+    padding: 8px;
+    min-width: 24px;
+    min-height: 24px;
+  }
+
+  .icon {
+    width: 18px;
+    height: auto;
+  }
+}

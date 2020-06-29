@@ -4,11 +4,10 @@
   flex-direction: column;
   min-width: 35%;
   margin: 24px;
-  padding: 32px 40px;
+  padding: 24px 40px;
   background-color: hsl(228, 56%, 26%);
   border-radius: 8px;
   color: hsl(243, 100%, 93%);
-  /* align-self: flex-end; */
 }
 
 .storage__container h5 {
@@ -64,4 +63,16 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+@media (max-width: 800px) {
+  .storage__container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+    width: 83%;
+    min-width: 80%;
+    margin: 0;
+    padding: 24px 24px 40px 24px;
+  }
 }
