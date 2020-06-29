@@ -8,10 +8,10 @@ function App() {
   return (
     <React.Fragment>
       <main className="page">
-        <wrapper className="page-container">
+        <section className="page-container">
           <LogoCard />
           <StorageCard />
-        </wrapper>
+        </section>
       </main>
     </React.Fragment>
   );
