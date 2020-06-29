@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a98adfb.chunk.css",
-    "main.js": "/static/js/main.62b0f259.chunk.js",
-    "main.js.map": "/static/js/main.62b0f259.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9f165b7f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9f165b7f.js.map",
-    "static/js/2.8890d2bb.chunk.js": "/static/js/2.8890d2bb.chunk.js",
-    "static/js/2.8890d2bb.chunk.js.map": "/static/js/2.8890d2bb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.446e8b4f6de981d9ac49c5da3eb973c2.js": "/precache-manifest.446e8b4f6de981d9ac49c5da3eb973c2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5a98adfb.chunk.css.map": "/static/css/main.5a98adfb.chunk.css.map",
-    "static/js/2.8890d2bb.chunk.js.LICENSE.txt": "/static/js/2.8890d2bb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bg-desktop.dba266ec.png",
-    "static/media/icon-document.svg": "/static/media/icon-document.db85d937.svg",
-    "static/media/icon-folder.svg": "/static/media/icon-folder.b76d31f5.svg",
-    "static/media/icon-upload.svg": "/static/media/icon-upload.b7e6adf0.svg",
-    "static/media/logo.svg": "/static/media/logo.35d2c7c6.svg"
+    "main.css": "/FrontendMentor01-fylo-data-storage-component/static/css/main.55b47606.chunk.css",
+    "main.js": "/FrontendMentor01-fylo-data-storage-component/static/js/main.62b0f259.chunk.js",
+    "main.js.map": "/FrontendMentor01-fylo-data-storage-component/static/js/main.62b0f259.chunk.js.map",
+    "runtime-main.js": "/FrontendMentor01-fylo-data-storage-component/static/js/runtime-main.8e9a7d1e.js",
+    "runtime-main.js.map": "/FrontendMentor01-fylo-data-storage-component/static/js/runtime-main.8e9a7d1e.js.map",
+    "static/js/2.8890d2bb.chunk.js": "/FrontendMentor01-fylo-data-storage-component/static/js/2.8890d2bb.chunk.js",
+    "static/js/2.8890d2bb.chunk.js.map": "/FrontendMentor01-fylo-data-storage-component/static/js/2.8890d2bb.chunk.js.map",
+    "index.html": "/FrontendMentor01-fylo-data-storage-component/index.html",
+    "precache-manifest.90e4d2e1396a5feb9687b7f65176bc93.js": "/FrontendMentor01-fylo-data-storage-component/precache-manifest.90e4d2e1396a5feb9687b7f65176bc93.js",
+    "service-worker.js": "/FrontendMentor01-fylo-data-storage-component/service-worker.js",
+    "static/css/main.55b47606.chunk.css.map": "/FrontendMentor01-fylo-data-storage-component/static/css/main.55b47606.chunk.css.map",
+    "static/js/2.8890d2bb.chunk.js.LICENSE.txt": "/FrontendMentor01-fylo-data-storage-component/static/js/2.8890d2bb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FrontendMentor01-fylo-data-storage-component/static/media/bg-desktop.dba266ec.png",
+    "static/media/icon-document.svg": "/FrontendMentor01-fylo-data-storage-component/static/media/icon-document.db85d937.svg",
+    "static/media/icon-folder.svg": "/FrontendMentor01-fylo-data-storage-component/static/media/icon-folder.b76d31f5.svg",
+    "static/media/icon-upload.svg": "/FrontendMentor01-fylo-data-storage-component/static/media/icon-upload.b7e6adf0.svg",
+    "static/media/logo.svg": "/FrontendMentor01-fylo-data-storage-component/static/media/logo.35d2c7c6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f165b7f.js",
+    "static/js/runtime-main.8e9a7d1e.js",
     "static/js/2.8890d2bb.chunk.js",
-    "static/css/main.5a98adfb.chunk.css",
+    "static/css/main.55b47606.chunk.css",
     "static/js/main.62b0f259.chunk.js"
   ]
 }
