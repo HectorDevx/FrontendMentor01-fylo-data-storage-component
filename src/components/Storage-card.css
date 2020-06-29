@@ -1,0 +1,67 @@
+.storage__container {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  min-width: 35%;
+  margin: 24px;
+  padding: 32px 40px;
+  background-color: hsl(228, 56%, 26%);
+  border-radius: 8px;
+  color: hsl(243, 100%, 93%);
+  /* align-self: flex-end; */
+}
+
+.storage__container h5 {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.loadingbar-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  margin: -12px 0px;
+  min-height: 16px;
+  border-radius: 16px;
+  padding: 4px;
+  background-color: hsl(229, 57%, 11%);
+}
+
+.loadingbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  /* width: 80%; */
+  min-height: 14px;
+  padding: 2px;
+  border-radius: 16px;
+  background: linear-gradient(90deg, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+  animation-name: load;
+  animation-duration: 8s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes load {
+  from {
+    width: 5%;
+  }
+  to {
+    width: 80%;
+  }
+}
+
+.circle {
+  background-color: hsl(243, 100%, 93%);
+  min-height: 12px;
+  min-width: 12px;
+  margin: 2px;
+  border-radius: 16px;
+}
+
+.storage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

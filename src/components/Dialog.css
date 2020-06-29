@@ -1,0 +1,27 @@
+.dialog {
+  width: 140px;
+  display: flex;
+  justify-self: flex-end;
+  align-self: flex-end;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: hsl(243, 100%, 93%);
+  border-radius: 8px;
+  padding: 24px;
+  margin-top: -80px;
+}
+
+.dialog h3 {
+  color: hsl(229, 57%, 11%);
+  font-size: 34px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.dialog h4 {
+  color: hsl(229, 7%, 55%);
+  text-transform: uppercase;
+  letter-spacing: 2;
+  margin: 8px;
+}
