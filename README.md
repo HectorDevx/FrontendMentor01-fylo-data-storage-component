@@ -1,5 +1,3 @@
-# Untitled
-
 # Frontend Mentor Challenge 1
 
 ### Fylo data storage component
