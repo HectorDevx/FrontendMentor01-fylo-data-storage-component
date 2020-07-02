@@ -4,7 +4,7 @@
 
 ### Fylo data storage component
 
-![Untitled%20260873b1032e45da8a58e3f9d9901aa7/Untitled.png](Untitled%20260873b1032e45da8a58e3f9d9901aa7/Untitled.png)
+![Challenge Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1591033776/Challenges/beiy7t7hcpdkhgc6ueho.jpg)
 
 Challenge from Frontend Mentor to practice. 
 
